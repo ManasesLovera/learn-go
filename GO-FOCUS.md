@@ -362,7 +362,6 @@
 ---
 
 > **Pro Tip from a Python/C#/TS Developer**:
-
 > - Forget classes and OOP inheritance. Go uses **composition** with structs and interfaces.
 > - Explicit is better than implicit. Go's error handling is verbose but clear.
 > - Concurrency is not parallelism, but it's your best friend for I/O-bound tasks.
