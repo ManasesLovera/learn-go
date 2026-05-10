@@ -1,6 +1,6 @@
 module learn-go
 
-go 1.24.4
+go 1.23
 
 require rsc.io/quote v1.5.2
 
